@@ -1,2 +1,5 @@
 ---
 elk_stack_version: "7.14.0"
+elastic_rpm_url:
+kibana_rpm_url:
+filebeat_rpm_url:
